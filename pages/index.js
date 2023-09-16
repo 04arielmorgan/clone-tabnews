@@ -1,9 +1,9 @@
 
 function Home() {
     return(
-       
-            <h1>Angélica, Eu te amo muito ❤️!</h1>
-   
+        <div className="own">
+            <h2>Angélica, Eu te amo muito ❤️!</h2>
+        </div>
     )
 }
 
