@@ -2,7 +2,7 @@
 function Home() {
     return(
         <div>
-            <h2>Angélica, Eu te amo muito ❤️!</h2>
+            <h2>Angélica, Eu te amo muito ❤️! Muito Mesmo!</h2>
         </div>
     )
 }
