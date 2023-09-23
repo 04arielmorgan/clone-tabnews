@@ -1,7 +1,7 @@
 
 function Home() {
     return(
-        <div className="own">
+        <div>
             <h2>Angélica, Eu te amo muito ❤️!</h2>
         </div>
     )

